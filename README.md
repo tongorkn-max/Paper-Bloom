@@ -1,3 +1,4 @@
+
 # Paper-Bloom
 E-commerce Individual Assignment 
 # 🌸 Paper & Bloom
@@ -54,16 +55,11 @@ The website is designed with a clean, user-friendly interface that makes it easy
 # 📷 Screenshots
 
 ## Homepage
-
-![Homepage](images/homepage.png)
-
+<img width="960" height="540" alt="imageshomepage" src="https://github.com/user-attachments/assets/b8bff76b-7b19-4d55-84dd-6fbae282f432" />
 ## Product Page
-
-![Products](images/products.png)
-
+<img width="960" height="540" alt="imagesshop" src="https://github.com/user-attachments/assets/16a1c008-dbb8-476c-8207-a24deace5dd1" />
 ## Contact Page
-
-![Contact](images/contact.png)
+<img width="960" height="540" alt="imagescontact" src="https://github.com/user-attachments/assets/122a8fb4-a05e-434b-976e-b1070d3b5f71" />
 
 ---
 
